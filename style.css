@@ -1,0 +1,183 @@
+.nav-items {
+    font-weight: 600;
+    color: black;
+}
+
+
+
+.navbar-nav button {
+    background-color: #4CAF4F;
+    font-size: 20px;
+}
+
+
+.hero-section {
+    background-color: #F5F7FA;
+    margin-top: 23px;
+}
+.col-6 h1 {
+    padding-top: 117px;
+    margin-left: 151px;
+    font-size: 54px;
+}
+.col-6 h6 {
+    margin-left: 150px;
+    color: #95afc0;
+    font-weight: 300;
+}
+.col-6 h1 span {
+    color: #4CAF4F;
+}
+.col-6 img {
+    margin-left: 161px;
+    width: 517px;
+}
+.col-6 button {
+    margin-left: 152px;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: #4CAF4F;
+    margin-top: 21px;
+}
+.dot {
+    text-align: center;
+    margin: 0 auto;
+}
+.clients {
+    margin-top: 36px;
+    text-align: center;
+}
+.our-clients {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+.our-clients img {
+    width: 1351px;
+    margin: 28px;
+}   
+.clients-info img {
+    width: 1352px;
+
+}
+.pixelgrade {
+    width: 100%;
+    display: flex;
+    margin: 55px;
+}
+
+.pixel-info {
+    width: 48.333%;
+    float: right;
+    margin-left: 88px;
+    margin-top: 76px;
+}
+.pixel-info h1 {
+    color: #4D4D4D;
+    font-size: 41px;
+}
+.pixel-info p {
+    color: #4D4D4D;
+    font-weight: 400;
+}
+.pixel-info button {
+    margin-top: 12px;
+    border: none;
+    background-color: #4CAF4F;
+    padding: 14px;
+    width: 131px;
+    border-radius: 9px;
+}
+.achievements img {
+    width: 1348px;
+}
+
+.site-design {
+    width: 100%;
+    display: flex;
+    margin: 55px;
+}
+
+.site-info {
+    width: 48.333%;
+    float: right;
+    margin-left: 88px;
+    margin-top: 76px;
+}
+.site-info h1 {
+    color: #4D4D4D;
+    font-size: 41px;
+}
+.site-info p {
+    color: #4D4D4D;
+    font-weight: 400;
+}
+
+.site-info button {
+    margin-top: 12px;
+    border: none;
+    background-color: #4CAF4F;
+    padding: 14px;
+    width: 131px;
+    border-radius: 9px;
+}
+.tim-smith {
+    width: 100%;
+    height: 446px;
+    display: flex;
+    margin: 55px;
+    background-color: #F5F7FA;
+}
+.tim-info {
+    width: 58.333%;
+    margin-left: 60px;
+    margin-top: 24px;
+}
+.tim-info h5 span {
+    color: #4CAF4F;
+}
+.tim-info img {
+    margin-top: 20px;
+}
+.market-head {
+    text-align: center;
+}
+.market-head h1 {
+    font-size: 35px;
+    color: #4D4D4D;
+}
+.market-head p {
+    width: 616px;
+    color: #4D4D4D;
+    margin-left: 367px;
+}
+.market-img {
+    margin-left: 80px;
+    width: 100%;
+}
+.market-img img {
+    padding: 13px;
+}
+.foot {
+    text-align: center;
+}
+.foot h1 {
+    font-size: 42px;
+    font-family: inter;
+    width: 438px;
+    margin-left: 461px;
+}
+.foot button {
+    margin-top: 12px;
+    border: none;
+    background-color: #4CAF4F;
+    padding: 14px;
+    width: 131px;
+    border-radius: 9px;
+}
+.footer img {
+    width: 1351px;
+    margin-top: 40px;
+}
